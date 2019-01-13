@@ -1,4 +1,4 @@
-(module TO220_Vertical_Radiator_20x15x10mm (layer F.Cu) (tedit 5C3B2089)
+(module TO220_Vertical_Radiator_L15mm_W10mm (layer F.Cu) (tedit 5C3B2089)
   (descr "<b>TO 200 vertical</b>")
   (fp_text reference REF** (at -5.08 6.0452) (layer F.SilkS)
     (effects (font (size 1.2065 1.2065) (thickness 0.127)) (justify left bottom))
